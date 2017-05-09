@@ -1,0 +1,10 @@
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\bin\Debug\netcoreapp1.1\PortfolioMVC.deps.json
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\bin\Debug\netcoreapp1.1\PortfolioMVC.runtimeconfig.json
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\bin\Debug\netcoreapp1.1\PortfolioMVC.runtimeconfig.dev.json
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\bin\Debug\netcoreapp1.1\PortfolioMVC.dll
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\bin\Debug\netcoreapp1.1\PortfolioMVC.pdb
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\obj\Debug\netcoreapp1.1\PortfolioMVC.csprojResolveAssemblyReference.cache
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\obj\Debug\netcoreapp1.1\PortfolioMVC.AssemblyInfo.cs
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\obj\Debug\netcoreapp1.1\PortfolioMVC.dll
+C:\Users\prana\tiy\week-9\day-2\PortfolioMVC\PortfolioMVC\obj\Debug\netcoreapp1.1\PortfolioMVC.pdb
