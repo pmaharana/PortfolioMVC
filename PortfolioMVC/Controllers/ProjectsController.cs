@@ -54,7 +54,7 @@ namespace PortfolioMVC.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Image,Url,Description")] Projects projects)
+        public async Task<IActionResult> Create([Bind("Id,Title,Image,Url,Description")] Projects projects)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace PortfolioMVC.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Image,Url,Description")] Projects projects)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Image,Url,Description")] Projects projects)
         {
             if (id != projects.Id)
             {

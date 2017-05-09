@@ -28,10 +28,7 @@ namespace PortfolioMVC.Data
             // Add your customizations after calling base.OnModelCreating(builder);
         }
 
-        public void SeedData()
-        {
-
-        }
+  
 
         public DbSet<Person> Persons { get; set; }
         public DbSet<Projects> Projects { get; set; }
