@@ -22,7 +22,7 @@ namespace PortfolioMVC.Controllers
         // GET: Person
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Persons.ToListAsync());
+            return View(await _context.Persons.Include(i => i.Projects).ToListAsync());
         }
 
         // GET: Person/Details/5
